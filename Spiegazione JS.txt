@@ -1,0 +1,22 @@
+Algoritmo 
+
+Un insieme di istruzioni per raggiungere un obbiettivo
+Un insieme di step per la risoluzione di un problema
+
+
+
+Variabile
+
+Sono come dei contenitori dove conserviamo temporaneamente dati parzialmente elaborati
+
+
+
+Undefined
+
+È un qualcosa che non è stato valorizzato
+
+
+
+Null
+
+È una dichiarazione esplicita di vuoto
